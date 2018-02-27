@@ -10,3 +10,8 @@
 - 용어
     - 라인 아이콘 : 라인 위주로 다루어진 아이콘
     - 솔리드 아이콘 : 면 위주로 다루어진 아이콘
+    
+- 사이트
+    - [스케치 리소스 사이트](https://www.sketchappsources.com/)
+    - [Flaticon](https://www.flaticon.com/)
+    - [Noun Project](https://thenounproject.com/)
