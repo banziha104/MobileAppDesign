@@ -8,4 +8,9 @@
 - F : 채우기 적용 해제
 - B : Border 적용 해
 - Ctr + C : 색성 선택
-- 
+- 레이어 선택후 숫자키 입력 : 전체 Opacity 선택
+- Opt + Cmd + C : 스타일 복사
+- Opt + Cmd + V : 스타일 붙여넣기
+- Opt + Cmd + F : find and replace color (해당 모든 컬러를 변경함)
+
+- Opt + Cmd + T : 툴바 토글
