@@ -41,6 +41,8 @@
 - Pixel Fitting : 가장 근접한 픽셀로 작업함
     - preference > Layer > Pixel Fitting 
     
+- Symbol은 Symbol 페이지로 넘어가서 make expotable을 눌러 익스포팅함
+    
         
 
     

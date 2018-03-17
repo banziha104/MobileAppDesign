@@ -22,3 +22,4 @@
         
 - icon/(이름) : 이 방법으로 심볼을 만들면, 같은 크기의 심볼끼리 폴더링됌(*)
 - convet outline 이 된 icon 위에 컬러 박스를 얹고, 마스킹을 해주면, 색상과 아이콘을 쉽게 바꿀수 있음.
+- Symbol은 Symbol 페이지로 넘어가서 make expotable을 눌러 익스포팅함
